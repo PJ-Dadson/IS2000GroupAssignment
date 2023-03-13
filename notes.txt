@@ -1,0 +1,22 @@
+This document is intended only as a notes page for the team.
+Things we need:
+
+Template (header, nav, and footer)
+Home page
+
+Pets up for adoption (Consider grid format, should comprise of blocks that detail age, species, estimated birthday and age, and sex)
+Stories (Pargraphs of creative writing about animal rescue, should include links to donations and adoptions pages afterwords)
+Donations page (State where the donations go, 501c3 status, and anchor select boxes for pre-determined amounts, and a text field for custom amount)
+Animal Care Policy (Creative writing for animal care policy, and maybe a link to contact_us page in case they have questions)
+
+About us (List our mission statement and team members)
+Contact us (Address, phone number, email, Google maps link)
+
+We will also need to upload 1 site map and 1 wireframe of the home page.
+
+Color Pallete:
+I was thinking we would use:
+#F5F5F5 (Light-Grey, almost white)
+#FFFD77 (Washed-out yellow)
+#429EB3 (Teal)
+#220F2E (Dark-Purple, almost black)
