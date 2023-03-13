@@ -21,4 +21,4 @@ I was thinking we would use:
 #429EB3 (Teal)
 #220F2E (Dark-Purple, almost black)
 
-Aramis Hahne: My git is configured
+Aramis Hahne: My git is configured. I'd like to do layout and design, and create the wireframe and site map.
