@@ -20,3 +20,5 @@ I was thinking we would use:
 #FFFD77 (Washed-out yellow)
 #429EB3 (Teal)
 #220F2E (Dark-Purple, almost black)
+
+Aramis Hahne: My git is configured
