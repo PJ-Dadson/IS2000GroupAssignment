@@ -22,5 +22,6 @@ I was thinking we would use:
 #800000 (Maroon)
 #220F2E (Dark-Purple, almost black)
 
-Aramis Hahne: My git is configured. I'd like to do layout and design, and create the wireframe and site map.
-Michael Hoff: I believe my git is configured. I guess I'll find out in class.
+Aramis Hahne: My git is configured. (Home and Care policy, favicon, and icon)
+Michael Hoff: I believe my git is configured. I guess I'll find out in class. (Adoptions, Donations, About)
+JP will be doing (contact us, and stories)
