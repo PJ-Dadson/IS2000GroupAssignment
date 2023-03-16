@@ -24,4 +24,4 @@ I was thinking we would use:
 
 Aramis Hahne: My git is configured. (Home and Care policy, favicon, and icon)
 Michael Hoff: I believe my git is configured. I guess I'll find out in class. (Adoptions, Donations, About)
-JP will be doing (contact us, and stories)
+PJ Dadson: My git should be configured. (contact us, and stories)
